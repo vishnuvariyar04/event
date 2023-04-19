@@ -1,0 +1,93 @@
+@media screen and (max-width: 1000px) {
+  #events{
+    width: 1100px;
+    height:7000px ;
+  }
+
+
+
+  .general-rules1{
+    font-size: 100px;
+    
+  } 
+  
+  .para1,.para2{
+    padding-top: 40px;
+    font-size: 20px;
+    color: white;
+  }
+
+  .astra-rules{
+    font-size: 100px;
+    padding-top: 40px;
+  }
+
+  .points-table1{
+    margin-right: 70px;
+    padding-right: 70px;
+  }
+
+  table{
+    margin-right: 150px;
+  }
+
+  .para2{
+    padding-top: 40px;
+    font-size: 20px;
+  }
+
+  .event-title{
+    padding-right: 40px;
+  }
+
+  .event-title1{
+   text-align: center;
+   font-size:150px;
+   padding-top: 70px;
+  }
+
+  .category1{
+    text-align: center;
+    font-size:70px;
+    padding-top:150px;
+   }
+
+
+  .container {
+    flex-direction: column;
+    margin-left: 50px;
+  }
+
+  .card-c {
+    margin: 0;
+    margin-top: 20px;
+    
+  }
+
+  .card{
+    width: 750px;
+height: 550px;
+  }
+
+  .card8{
+    width: 750px;
+height: 550px;
+  }
+
+  .event-name1{
+    font-size: 70px;
+    margin-top: 50px;
+  }
+
+  .alias-name1{
+    font-size: 50px;
+    margin-top: 40px;
+  }
+
+  .para{
+    font-size: 30px;
+    margin-top: 50px;
+  }
+
+}
+

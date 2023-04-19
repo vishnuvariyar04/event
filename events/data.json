@@ -1,0 +1,106 @@
+{
+    "modal1": {
+      "title": "Modal 1 Title",
+      "body": [
+        "One team per department ",
+        " Number of participants: 12 models + 2 helpers + 1 narrator",
+        " Duration: 12 to 15 minutes",
+        " Additional setup time will not be provided",
+        " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+        " Both Rounds are compulsory",
+        "..."
+      ],
+      
+      "coordinators": [
+        { "Name": "Rohan", "Contact": "1234567890" },
+        { "Name": "Coordinator Name", "Contact": "1234567890" }
+      ]
+    },
+    "modal2": {
+      "title": "Modal 2 Title",
+      "body": [
+        "One team per department ",
+        " Number of participants: 12 models + 2 helpers + 1 narrator",
+        " Duration: 12 to 15 minutes",
+        " Additional setup time will not be provided",
+        " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+        " Both Rounds are compulsory",
+        "..."
+      ]
+    },
+    "modal3": {
+      "title": "Modal 3 Title",
+      "body": [
+        "One team per department ",
+        " Number of participants: 12 models + 2 helpers + 1 narrator",
+        " Duration: 12 to 15 minutes",
+        " Additional setup time will not be provided",
+        " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+        " Both Rounds are compulsory",
+        "..."
+      ]
+    },
+
+    "modal4": {
+        "title": "Modal 4 Title",
+        "body": [
+          "One team per department ",
+          " Number of participants: 12 models + 2 helpers + 1 narrator",
+          " Duration: 12 to 15 minutes",
+          " Additional setup time will not be provided",
+          " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+          " Both Rounds are compulsory",
+          "..."
+        ]
+      },
+      "modal5": {
+        "title": "Modal 5 Title",
+        "body":[
+          "One team per department ",
+          " Number of participants: 12 models + 2 helpers + 1 narrator",
+          " Duration: 12 to 15 minutes",
+          " Additional setup time will not be provided",
+          " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+          " Both Rounds are compulsory",
+          "..."
+        ]
+      },
+      "modal6": {
+        "title": "Modal 6 Title",
+        "body": [
+          "One team per department ",
+          " Number of participants: 12 models + 2 helpers + 1 narrator",
+          " Duration: 12 to 15 minutes",
+          " Additional setup time will not be provided",
+          " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+          " Both Rounds are compulsory",
+          "..."
+        ]
+      },
+
+      "modal7": {
+        "title": "Modal 7 Title",
+        "body": [
+          "One team per department ",
+          " Number of participants: 12 models + 2 helpers + 1 narrator",
+          " Duration: 12 to 15 minutes",
+          " Additional setup time will not be provided",
+          " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+          " Both Rounds are compulsory",
+          "..."
+        ]
+      },
+      "modal8": {
+        "title": "Modal 8 Title",
+        "body": [
+          "One team per department ",
+          " Number of participants: 12 models + 2 helpers + 1 narrator",
+          " Duration: 12 to 15 minutes",
+          " Additional setup time will not be provided",
+          " Themes: Round 1 - Tirodhana (illusion) Round 2 - open",
+          " Both Rounds are compulsory",
+          "..."
+        ]
+      }
+  }
+  
